@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micaela Gimenez</h1>
-<h3 align="center">A FullStack Developer Trainee</h3>
+<h3 align="center">A Data Engineer Trainee</h3>
 
 - 🌱 I’m currently learning **Python and Javascript**
 
