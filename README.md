@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Advanced Python, MongoDB and Data Engineer tools.**
 
-- 👨‍💻 All of my projects are available at [My Github](My Github)
+- 👨‍💻 All of my projects are available at My Github
 
 - 💬 Ask me about **Python, HTML, CSS, Java, SQL, Git and Github**
 
 - 📫 How to reach me **mica.gmnz@gmail.com**
 
-- 📄 Know about my experiences [Actually Iam working at Bussines Bureau, Position: Data Engineer](Actually Iam working at Bussines Bureau, Position: Data Engineer)
+- 📄 Know about my experiences Actually Iam working at Bussines Bureau, Position: Data Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
