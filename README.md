@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micaela Elizabeth Gimenez</h1>
-<h3 align="center">A Data Engineer Trainee from Argentina</h3>
+<h3 align="center">A Python Developer | Data Engineer from Argentina</h3>
 
 - 🔭 I’m currently working on **Scraping pages. Extract, Transform and Load with Language: Python with Selenium, Beautiful Soup and Pandas, IDE: Visual Studio Code and Jupiter Notebook, Database: MongoDB with Studio 3t.**
 
