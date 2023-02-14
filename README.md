@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Micaela Elizabeth Gimenez</h1>
-<h3 align="center">A Python Developer | Data Engineer from Argentina</h3>
+<h3 align="center">A Python Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Scraping pages. Extract, Transform and Load with Language: Python with Selenium, Beautiful Soup and Pandas, IDE: Visual Studio Code and Jupiter Notebook, Database: MongoDB with Studio 3t.**
+- 🔭 I’m currently working on **Scraping pages. With Language: Python with Selenium, Beautiful Soup, IDE: Visual Studio Code and Jupiter Notebook, Database: MongoDB with Studio 3t. Clickup and Github**
 
-- 🌱 I’m currently learning **Advanced Python, MongoDB and Data Engineer tools.**
+- 🌱 I’m currently learning **Advanced Python, MongoDB, Django.**
 
 - 👨‍💻 All of my projects are available at My Github
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mica.gmnz@gmail.com**
 
-- 📄 Know about my experiences Actually Iam working at Bussines Bureau, Position: Data Engineer
+- 📄 Know about my experiences Actually Iam working at Bussines Bureau, Position: Python Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
