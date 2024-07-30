@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Micaela Elizabeth Gimenez</h1>
 <h3 align="center">A Python Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Scraping pages. With Language: Python with Selenium, Beautiful Soup, IDE: Visual Studio Code and Jupiter Notebook, Database: MongoDB with Studio 3t. Clickup and Github**
+- 🔭 I’m currently working on **Development and Maintance for querys to APIs, Maintance and configuring Container Jobs in Azure and Scraping pages. With Language: Python with Pandas, Selenium, Beautiful Soup, Azure IDE: Visual Studio Code and Jupiter Notebook, Deploy to Azure: Docker, Database: Sql Server Azure with Dbeaver, Tasks in Asana, Storage and execution of Scripts in Azure and Github for development**
 
-- 🌱 I’m currently learning **Advanced Python, MongoDB, Django.**
+- 🌱 I’m currently learning **Advanced Python, APIs, Azure: SqlServer, Container Jobs, Container blobs, Docker**
 
 - 👨‍💻 All of my projects are available at My Github
 
-- 💬 Ask me about **Python, HTML, CSS, Java, SQL, Git and Github**
+- 💬 Ask me about **Python(with Django, Selenium, BeautifulSoup, Pandas), Linux, HTML, CSS, Java, SQL, NoSQL, Git and Github, Docker, AWS and Azure**
 
 - 📫 How to reach me **mica.gmnz@gmail.com**
 
-- 📄 Know about my experiences Actually Iam working at Bussines Bureau, Position: Python Developer
+- 📄 Know about my experiences Actually Iam working at Data Riders, Position: Python Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
