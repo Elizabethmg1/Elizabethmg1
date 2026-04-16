@@ -1,35 +1,50 @@
-<h1 align="center">Hi 👋, I'm Micaela Elizabeth Gimenez</h1>
-<h3 align="center">A Data Engineer from Argentina</h3>
+# Micaela Elizabeth Gimenez
+### SSr Data Engineer · Buenos Aires, Argentina
 
-- 🔭 I’m currently working on **Development and Maintance for querys to APIs, Maintance and configuring Container Jobs in Azure and Scraping pages. With Language: Python with Pandas, Selenium, Beautiful Soup, Azure IDE: Visual Studio Code and Jupiter Notebook, Deploy to Azure: Docker, Database: Sql Server Azure with Dbeaver, Tasks in Asana, Storage and execution of Scripts in Azure and Github for development**
+Data Engineer with 3+ years building production ETL/ELT pipelines, data warehouses, and cloud-native workflows. Currently managing two simultaneous client projects end-to-end — including an OLAP prototype built independently on Azure Analysis Services without technical precedent. I integrate LLM-assisted development as a core part of my workflow to accelerate delivery and improve solution quality.
 
-- 🌱 I’m currently learning **Advanced Python, APIs, AWS, Azure, SqlServer, Container Jobs, Container blobs, Docker**
+---
 
-- 👨‍💻 All of my projects are available at My Github
+### Cloud & Infrastructure
 
-- 💬 Ask me about **Python, Java, Linux, SQL, NoSQL, Docker, LLMs, AWS and Azure**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-- 📫 How to reach me **mica.gmnz@gmail.com**
+### Data Engineering
 
-- 📄 Know about my experiences Actually Iam working at Data Riders, Position: Python Developer | Data Engineer
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/micaela-elizabeth-gimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micaela-gimenez-b248901b9" height="30" width="40" /></a>
-</p>
+### Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="github" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="docker" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/es-mx/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Azure" width="40" height="40"/> </a> 
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### LLM Integration
+
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Anthropic-D97757?style=flat&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6B48FF?style=flat&logoColor=white)
+
+---
+
+### Currently working on
+
+ETL pipelines and data warehouse maintenance on Azure · OLAP prototype with Azure Analysis Services and Delta Master · LLM-assisted development workflows for data engineering tasks
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaela-elizabeth-gimenez)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mica.gmnz@gmail.com)
