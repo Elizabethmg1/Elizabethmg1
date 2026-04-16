@@ -1,7 +1,7 @@
 # Micaela Elizabeth Gimenez
 ### SSr Data Engineer · Buenos Aires, Argentina
 
-Data Engineer with 3+ years building production ETL/ELT pipelines, data warehouses, and cloud-native workflows. Currently managing two simultaneous client projects end-to-end — including an OLAP prototype built independently on Azure Analysis Services without technical precedent. I integrate LLM-assisted development as a core part of my workflow to accelerate delivery and improve solution quality.
+Data Engineer with 3+ years building production ETL/ELT pipelines, data warehouses, and cloud-native workflows. Currently managing two simultaneous client projects end-to-end — including an OLAP prototype built independently on Azure Analysis Services. I integrate LLM-assisted development as a core part of my workflow to accelerate delivery and improve solution quality.
 
 ---
 
